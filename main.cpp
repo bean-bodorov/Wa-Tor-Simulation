@@ -18,7 +18,7 @@ int main() {
 
 
 
-
+// hi
 
 
     // We put "1" to indicate there is a ship.
