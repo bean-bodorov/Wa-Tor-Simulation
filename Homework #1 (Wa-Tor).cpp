@@ -38,7 +38,7 @@ int main() {
             }
             cout << endl;
         }
-
+// test
         // 3. Movement Logic (The "Homework" part)
         vector<vector<int>> nextOcean(SIZE, vector<int>(SIZE, EMPTY));
 
