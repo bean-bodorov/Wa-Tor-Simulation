@@ -458,7 +458,7 @@ struct {
     string* guests = new string[numGuests];
 
     // Ignore the leftover newline character after reading numGuests
-    cin.ignore();
+    cin.ignore(); // e
 
     // Enter guest names
     for (int i = 0; i < numGuests; i++) {

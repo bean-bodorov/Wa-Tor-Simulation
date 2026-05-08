@@ -16,7 +16,7 @@ cout << sum << endl;
     string number = "20";
     int numberr = 30;
     cout << number << " " << numberr << endl;
-
+// e
     cout << firstName.length() <<endl;
     cout << lastName[2];
     cout << endl << lastName[lastName.length()-1];
